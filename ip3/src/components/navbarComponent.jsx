@@ -21,7 +21,7 @@ class Navbar extends Component {
             <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">
               <ReactBootStrap.Nav className="me-auto">
-                <ReactBootStrap.Nav.Link href="#features">
+                <ReactBootStrap.Nav.Link href="/public/WeatherhData.html">
                   Weather History Data
                 </ReactBootStrap.Nav.Link>
                 <ReactBootStrap.Nav.Link href='/public/co2Data.html'>

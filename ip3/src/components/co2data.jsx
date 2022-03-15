@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css';
+
 import * as ReactBootStrap from "react-bootstrap";
 
 function co2Data(){
