@@ -3,6 +3,9 @@ import * as ReactBootStrap from "react-bootstrap";
 
 class Navbar extends Component {
   render() {
+    
+
+
     return (
       <React.Fragment className="Navbar">
         <ReactBootStrap.Navbar
@@ -21,7 +24,7 @@ class Navbar extends Component {
                 <ReactBootStrap.Nav.Link href="#features">
                   Weather History Data
                 </ReactBootStrap.Nav.Link>
-                <ReactBootStrap.Nav.Link href="#pricing">
+                <ReactBootStrap.Nav.Link href='/public/co2Data.html'>
                   CO2 Data
                 </ReactBootStrap.Nav.Link>
               </ReactBootStrap.Nav>
