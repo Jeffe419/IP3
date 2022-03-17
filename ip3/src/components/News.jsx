@@ -1,13 +1,15 @@
+
+
 import React, { Component } from "react";
 import * as ReactBootStrap from "react-bootstrap";
 
-class co2Data extends Component {
+class News extends Component {
     render(){
         return(
-            <h1>Co2 Page</h1>
+            <h1>News</h1>
             )
     };
    
 }
 
-export default co2Data;
+export default News;
